@@ -2,6 +2,7 @@
 Modelo de Machine Learning para predicción de abandono (churn) de clientes en e-commerce.
 
 **Predicción de Abandono de Clientes (Customer Churn) en E-commerce**
+
 **Objetivo del proyecto**
 
 El objetivo de este proyecto es desarrollar un modelo de Machine Learning capaz de predecir la probabilidad de abandono (churn) de clientes en una plataforma de comercio electrónico, utilizando variables demográficas, transaccionales y de comportamiento digital.
