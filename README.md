@@ -9,9 +9,13 @@ La finalidad de este análisis es identificar clientes en riesgo para implementa
 **Problema de negocio**
 En modelos de suscripción o e-commerce recurrente, la pérdida de clientes impacta directamente en el revenue y el Lifetime Value.
 Poder anticipar el churn permite:
+
 *Detectar clientes con alta probabilidad de abandono
+
 *Optimizar campañas de retención
+
 *Reducir costos de adquisición
+
 *Aumentar el valor de vida del cliente (CLV)
 
 **Enfoque analítico**
@@ -22,16 +26,24 @@ El proyecto se aborda como un problema de clasificación binaria:
 
 **Etapas del proyecto:**
 Limpieza y tratamiento de datos
+
 *Análisis exploratorio (EDA)
+
 *Feature engineering
+
 *Modelado predictivo
+
 *Evaluación mediante métricas como: Accuracy, Precision, Recall, ROC-AUC
 
 **Tecnologías utilizadas**
 -Python
+
 -Pandas
+
 -NumPy
+
 -Scikit-learn
+
 -Matplotlib / Seaborn
 
 **Impacto esperado**
